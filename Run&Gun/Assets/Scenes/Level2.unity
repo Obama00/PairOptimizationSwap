@@ -7976,7 +7976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07f89d47a60df5d48b1332e27454bea4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredCoins: 5
+  requiredCoins: 10
   gameStartScene: 0
 --- !u!61 &1149780066
 BoxCollider2D:
@@ -8495,7 +8495,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: /5
+  m_Text: /10
 --- !u!222 &1181524096
 CanvasRenderer:
   m_ObjectHideFlags: 0

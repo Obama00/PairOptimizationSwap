@@ -11,5 +11,8 @@ public class MMLevelButton : MonoBehaviour
     {
         SceneManager.LoadScene(gameStartScene);
     }
-   
+   public void QuitGame()
+    {
+        Application.Quit();
+    }
 }
