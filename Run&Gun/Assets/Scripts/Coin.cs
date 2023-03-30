@@ -12,6 +12,10 @@ public class Coin : MonoBehaviour
         //Make Collider2D as trigger 
         GetComponent<Collider2D>().isTrigger = true;
     }
+    void Start()
+    {
+        totalCoins = 0;
+    }
 
     void OnTriggerEnter2D(Collider2D c2d)
     {

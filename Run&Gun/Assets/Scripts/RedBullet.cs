@@ -16,14 +16,16 @@ public class RedBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "Red")
+        if (collision.gameObject.tag == "Red")
         {
             Destroy(collision.gameObject);
+
+        }
+        else
+        {
             Destroy(gameObject);
         }
-
         Debug.Log("Hit");
-
     }
 
 }

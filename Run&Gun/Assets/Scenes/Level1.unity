@@ -5171,7 +5171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7e6f7960d78b27449aa0d47c4fe4d0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 20
+  moveSpeed: 10
 --- !u!4 &688739969 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1841994653284535209, guid: 66de50e00473d7849ba48b4413437b14, type: 3}
@@ -7977,7 +7977,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   requiredCoins: 5
-  gameStartScene: 0
+  gameStartSceneWin: 2
+  gameStartSceneLose: 3
 --- !u!61 &1149780066
 BoxCollider2D:
   m_ObjectHideFlags: 0

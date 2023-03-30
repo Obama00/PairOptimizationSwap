@@ -19,9 +19,12 @@ public class BlueBullet : MonoBehaviour
         if(collision.gameObject.tag == "Blue")
         {
             Destroy(collision.gameObject);
+           
+        }
+        else
+        {
             Destroy(gameObject);
         }
-
         Debug.Log("Hit");
 
     }

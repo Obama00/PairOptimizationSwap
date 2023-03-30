@@ -16,12 +16,15 @@ public class GreenBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "Green")
+        if (collision.gameObject.tag == "Green")
         {
             Destroy(collision.gameObject);
+
+        }
+        else
+        {
             Destroy(gameObject);
         }
-
         Debug.Log("Hit");
 
     }

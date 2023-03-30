@@ -24,6 +24,45 @@ EditorBuildSettings:
     path: Assets/Scenes/Level2.unity
     guid: 67f2c91cf743e8942ba9aad58fb3dab0
   - enabled: 1
+    path: Assets/Scenes/Lvl2Win.unity
+    guid: 9ba47e6b196f18b4aa296db4fe8a415b
+  - enabled: 1
+    path: Assets/Scenes/Lvl2Lose.unity
+    guid: 3540368643a60704ea12d520315ca6eb
+  - enabled: 1
     path: Assets/Scenes/Level3.unity
     guid: 89fb56724798e9647b9e1cf975e4fcbf
+  - enabled: 1
+    path: Assets/Scenes/Lvl3Win.unity
+    guid: e46cf2624ded14a4b8d65f569588e35e
+  - enabled: 1
+    path: Assets/Scenes/Lvl3Lose.unity
+    guid: af731353b485db543977cf8d1bdee5df
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 47222f7d3ac3f6349a062d4fafc4bc7c
+  - enabled: 1
+    path: Assets/Scenes/Lvl4Win.unity
+    guid: af060d5597475c044a2d0f757f5c68d7
+  - enabled: 1
+    path: Assets/Scenes/Lvl4Lose.unity
+    guid: da4c841701f9fb1429fa9fe7b062203a
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: d4ea3db2e7806fa41b2d90f205676b7b
+  - enabled: 1
+    path: Assets/Scenes/Lvl5Win.unity
+    guid: e5cc5a765537f7f489e5da4fd24532d9
+  - enabled: 1
+    path: Assets/Scenes/Lvl5Lose.unity
+    guid: dc54294a9b5d9b945b7f8253b001ab9c
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 75c2657d8e27deb42bebd3101aad042e
+  - enabled: 1
+    path: Assets/Scenes/Lvl6Win.unity
+    guid: f16275d2a06dc7341a36ad9a34dac62e
+  - enabled: 1
+    path: Assets/Scenes/Lvl6Lose.unity
+    guid: eea11a370c274264993cbbb5a50f67f6
   m_configObjects: {}
